@@ -1,0 +1,761 @@
+Price,# Bedroom,# Bathroom,size(square feet),homeType,address,Date,Today
+"$735,000",3,1,1,-,"1147 E 31st St, Brooklyn, NY 11210",NAN,2021-10-19
+"$459,000",1,1,7,-,"435 E 57th St APT 2D, New York, NY 10022",NAN,2021-10-19
+"$2,250,000",1,2,1,-,"129 W 20th St APT 3A, New York, NY 10011",NAN,2021-10-19
+"$9,250,000",3,4,3,-,"1059 3rd Ave #26, New York, NY 10065",NAN,2021-10-19
+"$729,000",1,1,-,-,"61 W 62nd St APT 14N, New York, NY 10023",NAN,2021-10-19
+"$918,000",3,3,1,-,"25-34 83rd St, East Elmhurst, NY 11370",NAN,2021-10-19
+"$1,700,000",8,4,1,-,"1749 63rd St, Brooklyn, NY 11204",NAN,2021-10-19
+"$999,000",7,5,4,-,"1159 E 72nd St, Brooklyn, NY 11234",NAN,2021-10-19
+"$1,199,000",6,4,3,-,"101 Wallace Ave, Staten Island, NY 10305",NAN,2021-10-19
+"$1,180,000",2,2,1,-,"138-35 39th Ave APT 5H, Flushing, NY 11354",NAN,2021-10-19
+"$1,590,000",5,8,-,-,"466 54th St, Brooklyn, NY 11220",NAN,2021-10-19
+"$775,000",2,2,-,-,"2345 60th St PENTHOUSE A, Brooklyn, NY 11204",NAN,2021-10-19
+"$1,399,000",S,1,-,-,"60-37 69th Ln, Maspeth, NY 11378",NAN,2021-10-19
+"$479,000",2,1,9,-,"21-41 34th Ave #C4, Astoria, NY 11106",NAN,2021-10-19
+"$1,699,000",6,3,2,-,"1738 W 4th St, Brooklyn, NY 11223",NAN,2021-10-19
+"$488,000",1,1,5,-,"46-06 88th St #2C, Elmhurst, NY 11373",NAN,2021-10-19
+"$330,000",3,1,1,-,"9 Fordham Hill Oval APT 10F, Bronx, NY 10468",NAN,2021-10-19
+"$2,600,000",2,3,1,-,"200 E 65th St APT 35E, New York, NY 10065",NAN,2021-10-19
+"$1,250,000",1,1,8,-,"200 E 94th St APT 2911, New York, NY 10128",NAN,2021-10-19
+"$479,000",1,1,7,-,"415 E 85th St #4AA, New York, NY 10028",NAN,2021-10-19
+"$1,038,888",3,3,1,-,"5832 83rd Pl, Flushing, NY 11379",NAN,2021-10-19
+"$735,000",3,4,2,-,"50 Garretson Ln, Staten Island, NY 10304",NAN,2021-10-19
+"$560,000",2,2,-,-,"6070 Woodhaven Blvd #2F, Elmhurst, NY 11373",NAN,2021-10-19
+"$715,000",4,2,1,-,"272 Logan Ave, Bronx, NY 10465",NAN,2021-10-19
+"$1,528,000",8,4,2,-,"4188 Denman St, Flushing, NY 11373",NAN,2021-10-19
+"$1,150,000",5,3,2,-,"2343 Stillwell Ave, Brooklyn, NY 11223",NAN,2021-10-19
+"$2,395,000",3,3,1,-,"56 S 3rd St #2B, Brooklyn, NY 11249",NAN,2021-10-19
+"$679,000",3,3,-,-,"114-44 Sutter Ave, South Ozone Park, NY 11420",NAN,2021-10-19
+"$449,998",2,1,9,-,"110 Shore Blvd APT 3K, Brooklyn, NY 11235",NAN,2021-10-19
+"$1,150,000",6,4,1,-,"1251 Decatur St, Brooklyn, NY 11207",NAN,2021-10-19
+"$499,000",2,2,9,-,"3368 Shore Pkwy #2A, Brooklyn, NY 11235",NAN,2021-10-19
+"$14,495,000",4,4,3,-,"50 West St PENTHOUSE B58, New York, NY 10006",NAN,2021-10-19
+"$875,000",3,2,1,-,"451 Beach 125 St, Rockaway Park, NY 11694",NAN,2021-10-19
+"$1,715,000",2,2,1,-,"450 Warren St #4B, Brooklyn, NY 11217",NAN,2021-10-19
+"$4,995,000",4,4,2,-,"50 Bridge Park Dr #17A, Brooklyn, NY 11201",NAN,2021-10-19
+"$1,149,000",1,1,9,-,"57 Front St APT 301, Brooklyn, NY 11201",NAN,2021-10-19
+"$999,000",2,2,1,-,"1409 Pacific St #1, Brooklyn, NY 11216",NAN,2021-10-19
+"$1,098,888",3,2,1,-,"1 Bay Club Dr APT 16C, Bayside, NY 11360",NAN,2021-10-19
+"$485,000",3,3,1,-,"49B Edgewater Park Park, Bronx, NY 10465",NAN,2021-10-19
+"$825,000",1,1,7,-,"61 W 62nd St APT 15F, New York, NY 10023",NAN,2021-10-19
+"$2,250,000",3,2,-,-,"205 E 69th St APT 5C, New York, NY 10021",NAN,2021-10-19
+"$895,000",1,1,5,-,"205 E 68th St #T4E, New York, NY 10065",NAN,2021-10-19
+"$1,660,000",1,2,7,-,"202 Broome St #12D, New York, NY 10002",NAN,2021-10-19
+"$978,000",2,2,1,-,"40-26 College Point Blvd #8L, Flushing, NY 11354",NAN,2021-10-19
+"$890,000",1,1,6,-,"1212 2nd Ave #10B, New York, NY 10065",NAN,2021-10-19
+"$45,000,000",1,2,2,-,"217 W Broadway, New York, NY 10013",NAN,2021-10-19
+"$495,000",1,1,7,-,"420 42nd St APT 2F, Brooklyn, NY 11232",NAN,2021-10-19
+"$799,999",3,2,1,-,"58-62 206th St, Oakland Gardens, NY 11364",NAN,2021-10-19
+"$2,650,000",4,5,4,-,"90 Merrick Ave, Staten Island, NY 10301",NAN,2021-10-19
+"$699,000",2,2,1,-,"240-28B Oak Park Dr, Little Neck, NY 11362",NAN,2021-10-19
+"$518,888",3,2,1,-,"129 Blythe Pl, Staten Island, NY 10306",NAN,2021-10-19
+"$629,000",4,3,-,-,"91-59 88th St, Woodhaven, NY 11421",NAN,2021-10-19
+"$1,225,000",5,2,-,-,"60-29 71st Ave, Ridgewood, NY 11385",NAN,2021-10-19
+"$2,650,000",4,5,1,-,"90 Merrick Ave, Staten Island, NY 10301",NAN,2021-10-19
+"$875,000",3,2,1,-,"451 Beach 125th St, Far Rockaway, NY 11694",NAN,2021-10-19
+"$279,900",1,1,9,-,"416 Maryland Ave APT 2A, Staten Island, NY 10305",NAN,2021-10-19
+"$299,000",1,1,6,-,"1290 Rockland Ave APT 1G, Staten Island, NY 10314",NAN,2021-10-19
+"$858,000",4,2,1,-,"18 Barbey St, Brooklyn, NY 11207",NAN,2021-10-19
+"$599,000",3,3,1,-,"3136 Tiemann Ave, Bronx, NY 10469",NAN,2021-10-19
+"$1,860,000",8,5,-,-,"23-09 143rd St, Whitestone, NY 11357",NAN,2021-10-19
+"$838,000",3,2,1,-,"63-44 78th St, Middle Village, NY 11379",NAN,2021-10-19
+"$1,388,000",7,5,-,-,"84-38 Charlecote Rdg, Jamaica, NY 11432",NAN,2021-10-19
+"$999,000",6,3,1,-,"2233 W 8th St, Brooklyn, NY 11223",NAN,2021-10-19
+"$429,000",2,1,1,-,"2932 W 5th St APT 7G, Brooklyn, NY 11224",NAN,2021-10-19
+"$330,000",1,1,6,-,"7119 Shore Rd APT 2B, Brooklyn, NY 11209",NAN,2021-10-19
+"$2,249,000",4,4,2,-,"1060 E 21st St, Brooklyn, NY 11210",NAN,2021-10-19
+"$217,998",1,1,-,-,"115-25 84th Ave #A4, Richmond Hill, NY 11418",NAN,2021-10-19
+"$525,000",1,1,5,-,"240 E 35th St APT 5B, New York, NY 10016",NAN,2021-10-19
+"$1,795,000",3,2,2,-,"49 E 1st St APT 2, New York, NY 10003",NAN,2021-10-19
+"$629,000",1,1,7,-,"251 E 51st St APT 19N, New York, NY 10022",NAN,2021-10-19
+"$425,000",S,1,4,-,"142 E 49th St APT 3D, New York, NY 10017",NAN,2021-10-19
+"$799,000",S,1,-,-,"350 Bleecker St APT 1W, New York, NY 10014",NAN,2021-10-19
+"$782,000",S,1,4,-,"500 45th St #305, New York, NY 10036",NAN,2021-10-19
+"$389,000",S,1,-,-,"457 W 57th St #1015, New York, NY 10019",NAN,2021-10-19
+"$199,000",1,1,-,-,"2390 Palisade Ave APT 6G, Bronx, NY 10463",NAN,2021-10-19
+"$749,000",2,2,1,-,"31 -85 Crescent Street 20 #205, Queens, NY 11106",NAN,2021-10-19
+"$550,000",1,1,6,-,"1175 York Avenue 1d #1D, New York, NY 10021",NAN,2021-10-19
+"$850,000",1,1,6,-,"400 E 14th St APT 3D, New York, NY 10009",NAN,2021-10-19
+"$1,059,000",2,2,1,-,"201 E 36th St APT 11A, New York, NY 10016",NAN,2021-10-19
+"$3,495,000",3,3,-,-,"25 E 86th St #5D, New York, NY 10028",NAN,2021-10-19
+"$850,000",1,1,6,-,"400 E 14th St APT 3D, New York, NY 10009",NAN,2021-10-19
+"$782,000",S,1,4,-,"500 45th St #305, New York, NY 10036",NAN,2021-10-19
+"$814,000",S,1,4,-,"500 45th St #506, New York, NY 10036",NAN,2021-10-19
+"$2,300,000",2,2,-,-,"25 E 9th St APT 3B, New York, NY 10003",NAN,2021-10-19
+"$239,000",1,1,-,-,"67-12 Yellowstone Blvd #9D, Forest Hills, NY 11375",NAN,2021-10-19
+"$729,000",5,2,8,-,"362 Brehaut Ave, Staten Island, NY 10307",NAN,2021-10-19
+"$638,800",3,2,1,-,"132-34 82nd St, Ozone Park, NY 11417",NAN,2021-10-19
+"$1,350,000",5,3,-,-,"1886 Starr St, Flushing, NY 11385",NAN,2021-10-19
+"$679,000",5,2,1,-,"4435 Murdock Ave, Bronx, NY 10466",NAN,2021-10-19
+"$1,599,000",5,3,-,-,"1024 Virginia St, Far Rockaway, NY 11691",NAN,2021-10-19
+"$1,389,999",8,3,-,-,"91-33 115th St, Richmond Hill, NY 11418",NAN,2021-10-19
+"$345,000",1,1,-,-,"6530 108th St APT 5D, Forest Hills, NY 11375",NAN,2021-10-19
+"$1,200,000",3,3,6,-,"(undisclosed Address), Brooklyn, NY 11223",NAN,2021-10-19
+"$6,000,000",6,6,-,-,"346 7th Ave, Brooklyn, NY 11215",NAN,2021-10-19
+"$449,998",2,1,9,-,"110 Shore Blvd APT 3K, Brooklyn, NY 11235",NAN,2021-10-19
+"$549,999",2,2,8,-,"73 Burgher Ave, Staten Island, NY 10304",NAN,2021-10-19
+"$450,000",2,2,1,-,"17-85 215th St #2H, Bayside, NY 11360",NAN,2021-10-19
+"$849,000",4,2,1,-,"9464 Sutter Ave, Jamaica, NY 11417",NAN,2021-10-19
+"$564,900",2,2,1,-,"2400 Johnson Ave APT 5K, Bronx, NY 10463",NAN,2021-10-19
+"$650,000",3,2,1,-,"4020 Harper Ave, Bronx, NY 10466",NAN,2021-10-19
+"$1,350,000",4,3,1,-,"34-30 112th St, Corona, NY 11368",NAN,2021-10-19
+"$250,000",1,1,7,-,"32-20 92nd St #D310, East Elmhurst, NY 11369",NAN,2021-10-19
+"$399,000",NAN,NAN,NAN,NAN,"85 Sumner Ave, Staten Island, NY 10314",NAN,2021-10-19
+"$268,000",1,1,7,-,"3825 Parsons Blvd APT 1I, Flushing, NY 11354",NAN,2021-10-19
+"$189,000",1,1,8,-,"2160 Bronx Park E APT 4K, Bronx, NY 10462",NAN,2021-10-19
+"$380,000",3,2,1,-,"340 E Mosholu Pkwy S #2H, Bronx, NY 10458",NAN,2021-10-19
+"$789,999",3,3,-,-,"87-23 139th St, Jamaica, NY 11435",NAN,2021-10-19
+"$319,000",1,1,8,-,"1053 E 13th St APT B1, Brooklyn, NY 11230",NAN,2021-10-19
+"$1,850,000",2,2,1,-,"255 W 95th St APT 6D, New York, NY 10025",NAN,2021-10-19
+"$1,499,000",-,3,2,-,"1125 74th St, Brooklyn, NY 11228",NAN,2021-10-19
+"$1,495,000",1,2,1,-,"425 Park Ave S APT 18D, New York, NY 10016",NAN,2021-10-19
+"$1,995,000",5,4,2,-,"4834 Beach 48 St, Brooklyn, NY 11224",NAN,2021-10-19
+"$239,000",1,1,-,-,"67-12 Yellowstone Blvd APT D9, Forest Hills, NY 11375",NAN,2021-10-19
+"$625,000",2,2,-,-,"8959 Vanderveer St, Jamaica, NY 11427",NAN,2021-10-19
+"$1,995,000",5,3,2,-,"4834 Beach 48th St, Brooklyn, NY 11224",NAN,2021-10-19
+"$450,000",1,1,8,-,"31-85 Crescent St #104, Astoria, NY 11106",NAN,2021-10-19
+"$949,000",4,2,2,-,"480 Minnieford Ave, Bronx, NY 10464",NAN,2021-10-19
+"$609,900",3,3,1,-,"44 Heusden St, Staten Island, NY 10303",NAN,2021-10-19
+"$575,000",1,1,7,-,"779 Riverside Dr APT A63, New York, NY 10032",NAN,2021-10-19
+"$715,000",1,1,6,-,"35-40 30th St #5J, Astoria, NY 11106",NAN,2021-10-19
+"$4,495,000",3,3,-,-,"830 Park Ave #4/5C, New York, NY 10021",NAN,2021-10-19
+"$14,295,000",5,7,-,-,"1965 Broadway #26/27D, New York, NY 10023",NAN,2021-10-19
+"$7,350,000",4,5,-,-,"830 Park Ave #2/3A, New York, NY 10021",NAN,2021-10-19
+"$5,495,000",3,4,2,-,"3 E 71st St #7/8C, New York, NY 10021",NAN,2021-10-19
+"$999,999",5,3,-,-,"111-19 Lefferts Blvd, South Ozone Park, NY 11420",NAN,2021-10-19
+"$668,000",3,3,1,-,"40 Goller Pl, Staten Island, NY 10314",NAN,2021-10-19
+"$899,000",6,5,2,-,"650 Lamoka Ave, Staten Island, NY 10312",NAN,2021-10-19
+"$4,395,000",4,4,2,-,"212 Warren St APT 11L, New York, NY 10282",NAN,2021-10-19
+"$520,000",3,3,1,-,"98 Wenlock St, Staten Island, NY 10303",NAN,2021-10-19
+"$279,000",2,1,-,-,"46-30 215th Pl #1B, Bayside, NY 11361",NAN,2021-10-19
+"$1,068,000",4,3,-,-,"84-46 117th St, Kew Gardens, NY 11415",NAN,2021-10-19
+"$1,099,990",6,4,2,-,"149-55 259th St, Rosedale, NY 11422",NAN,2021-10-19
+"$839,000",6,2,2,-,"103-20 168th Pl, Jamaica, NY 11433",NAN,2021-10-19
+"$829,999",4,5,-,-,"112-11 197th St, Saint Albans, NY 11412",NAN,2021-10-19
+"$379,997",2,1,-,-,"14103 79th Ave APT 2K, Flushing, NY 11367",NAN,2021-10-19
+"$900,000",7,5,3,-,"4417A Richardson Ave, Bronx, NY 10470",NAN,2021-10-19
+"$1,800,000",4,4,2,-,"23 Fairview Pl, Brooklyn, NY 11226",NAN,2021-10-19
+"$1,800,000",2,1,6,-,"92 Perry St APT 5, New York, NY 10014",NAN,2021-10-19
+"$587,000",4,2,-,-,"129-30 154th St, Jamaica, NY 11434",NAN,2021-10-19
+"$9,700,000",6,2,-,-,"204 Ellery St, Brooklyn, NY 11206",NAN,2021-10-19
+"$499,000",1,1,-,-,"308 Mott St APT 3F, New York, NY 10012",NAN,2021-10-19
+"$2,325,000",3,4,1,-,"24 Central Park S #5W, New York, NY 10019",NAN,2021-10-19
+"$319,000",1,1,1,-,"2506 Davidson Ave APT 6C, Bronx, NY 10468",NAN,2021-10-19
+"$1,528,000",9,6,3,-,"14137 84th Dr, Jamaica, NY 11435",NAN,2021-10-19
+"$569,000",1,2,1,-,"26910 Grand Central Pkwy APT 11D, Floral Park, NY 11005",NAN,2021-10-19
+"$899,000",1,2,-,-,"400 E 56th St APT 33E, New York, NY 10022",NAN,2021-10-19
+"$1,750,000",2,2,1,-,"220 E 65th St APT 7H, New York, NY 10065",NAN,2021-10-19
+"$219,000",2,1,9,-,"89-35 155th Ave #6E, Howard Beach, NY 11414",NAN,2021-10-19
+"$975,000",2,2,-,-,"70-25 Yellowstone Blvd #24J, Forest Hills, NY 11375",NAN,2021-10-19
+"$1,100,000",9,6,-,-,"155-65 116th Dr, Jamaica, NY 11434",NAN,2021-10-19
+"$428,000",1,1,-,-,"85-04 63rd Dr #1J, Rego Park, NY 11374",NAN,2021-10-19
+"$6,999,500",8,1,6,-,"1366 70th St, Brooklyn, NY 11228",NAN,2021-10-19
+"$1,280,000",6,1,-,-,"9606 34th Ave, Flushing, NY 11368",NAN,2021-10-19
+"$1,100,000",1,1,8,-,"510 Driggs Ave #5H, Brooklyn, NY 11211",NAN,2021-10-19
+"$1,700,000",2,2,1,-,"510 Driggs Ave #3A, Brooklyn, NY 11211",NAN,2021-10-19
+"$299,000",3,2,2,-,"1034 E 212th St, Bronx, NY 10469",NAN,2021-10-19
+"$671,000",3,2,1,-,"2928 W 5th St APT 6P, Brooklyn, NY 11224",NAN,2021-10-19
+"$319,000",S,1,-,-,"45 Tudor City Pl APT 512, New York, NY 10017",NAN,2021-10-19
+"$349,000",S,1,9,-,"508 E 78th St APT 5M, New York, NY 10075",NAN,2021-10-19
+"$2,175,000",2,3,1,-,"321 W 78th St APT 5D, New York, NY 10024",NAN,2021-10-19
+"$1,895,000",3,3,-,-,"70 E 96th St APT 5A, New York, NY 10128",NAN,2021-10-19
+"$4,199,999",2,3,1,-,"641 5th Ave #33D, New York, NY 10022",NAN,2021-10-19
+"$399,000",S,1,3,-,"119 E 30th St APT 1F, New York, NY 10016",NAN,2021-10-19
+"$768,000",2,1,-,-,"157-57 9th Ave, Beechhurst, NY 11357",NAN,2021-10-19
+"$299,999",2,1,-,-,"144-22 78th Ave APT 2J, Flushing, NY 11367",NAN,2021-10-19
+"$837,000",3,2,1,-,"61-51 75th Pl, Middle Village, NY 11379",NAN,2021-10-19
+"$949,000",3,3,-,-,"108-15 101st Ave, South Richmond Hill, NY 11419",NAN,2021-10-19
+"$700,000",1,1,-,-,"250 Mercer St APT C518, New York, NY 10012",NAN,2021-10-19
+"$575,000",3,2,1,-,"13816 233rd St, Jamaica, NY 11422",NAN,2021-10-19
+"$680,000",4,3,2,-,"288 E 201st St, Bronx, NY 10458",NAN,2021-10-19
+"$1,200,000",5,2,1,-,"8741 25th Ave, Brooklyn, NY 11214",NAN,2021-10-19
+"$7,395,000",3,4,3,-,"53 W 53rd St #48B, New York, NY 10019",NAN,2021-10-19
+"$7,465,000",2,3,2,-,"565 Broome St #N27B, New York, NY 10013",NAN,2021-10-19
+"$7,950,000",3,4,2,-,"565 Broome St #N27A, New York, NY 10013",NAN,2021-10-19
+"$229,000",S,1,4,-,"9902 3rd Ave APT 2K, Brooklyn, NY 11209",NAN,2021-10-19
+"$650,000",4,3,-,-,"137-08 175th St, Jamaica, NY 11434",NAN,2021-10-19
+"$329,000",1,1,-,-,"147-35 38th Ave #B61, Flushing, NY 11354",NAN,2021-10-19
+"$1,799,000",2,2,1,-,"638 President St APT 2, Brooklyn, NY 11215",NAN,2021-10-19
+"$2,350,000",2,2,1,-,"1 Prospect Park W #5G, Brooklyn, NY 11215",NAN,2021-10-19
+"$2,250,000",5,2,2,-,"138 Midwood St, Brooklyn, NY 11225",NAN,2021-10-19
+"$1,150,000",2,1,-,-,"878 W End Ave APT 10B, New York, NY 10025",NAN,2021-10-19
+"$1,350,000",2,2,-,-,"185 W End Ave APT 27D, New York, NY 10023",NAN,2021-10-19
+"$695,000",3,2,1,-,"360 Fairbanks Ave, Staten Island, NY 10306",NAN,2021-10-19
+"$199,000",1,-,9,-,"10206 163rd Rd, Jamaica, NY 11414",NAN,2021-10-19
+"$919,000",2,1,-,-,"394 Kosciuszko St APT 4A, Brooklyn, NY 11221",NAN,2021-10-19
+"$305,000",1,1,-,-,"33-26 82nd St #G1, Jackson Heights, NY 11372",NAN,2021-10-19
+"$25,000,000",4,5,5,-,"15 E 30th St PENTHOUSE 60A, New York, NY 10016",NAN,2021-10-19
+"$1,125,000",1,1,8,-,"510 Driggs Ave #4H, Brooklyn, NY 11211",NAN,2021-10-19
+"$1,749,000",2,2,-,-,"300 E 40th St APT 20B, New York, NY 10016",NAN,2021-10-19
+"$1,425,000",1,2,9,-,"247 W 46th St #902, New York, NY 10036",NAN,2021-10-19
+"$420,000",S,1,-,-,"244 Madison Ave APT 5F, New York, NY 10016",NAN,2021-10-19
+"$299,000",2,1,-,-,"83-77 Woodhaven Blvd APT 6B, Woodhaven, NY 11421",NAN,2021-10-19
+"$289,900",2,3,-,-,"193-15 37th Ave #177, Flushing, NY 11358",NAN,2021-10-19
+"$918,000",6,2,-,-,"2311 123rd St, Flushing, NY 11356",NAN,2021-10-19
+"$699,900",5,2,1,-,"17123 119th Ave, Jamaica, NY 11434",NAN,2021-10-19
+"$1,899,999",8,7,2,-,"656 Classon Ave, Brooklyn, NY 11238",NAN,2021-10-19
+"$795,000",1,1,-,-,"15 W 72nd St APT 2N, New York, NY 10023",NAN,2021-10-19
+"$159,000",1,1,8,-,"897 Empire Blvd APT F1, Brooklyn, NY 11213",NAN,2021-10-19
+"$629,000",2,2,-,-,"133-31 86th St, Ozone Park, NY 11417",NAN,2021-10-19
+"$570,000",3,3,1,-,"(undisclosed Address), Bellerose, NY 11426",NAN,2021-10-19
+"$525,000",3,2,1,-,"191 Berriman St, Brooklyn, NY 11208",NAN,2021-10-19
+"$249,000",1,1,6,-,"611 Banner Ave APT 6K, Brooklyn, NY 11235",NAN,2021-10-19
+"$1,725,000",5,3,1,-,"181 13th St, Brooklyn, NY 11215",NAN,2021-10-19
+"$549,000",S,1,-,-,"130 Water St APT 9F, New York, NY 10005",NAN,2021-10-19
+"$1,050,000",2,1,8,-,"201 E 15th St APT 7G, New York, NY 10003",NAN,2021-10-19
+"$2,250,000",4,2,-,-,"875 W End Ave APT 4B, New York, NY 10025",NAN,2021-10-19
+"$599,000",1,1,8,-,"345 E 86th St APT 3A, New York, NY 10028",NAN,2021-10-19
+"$1,125,000",2,1,1,-,"433 Warren St PENTHOUSE B, Brooklyn, NY 11217",NAN,2021-10-19
+"$618,000",2,3,1,-,"94-32 77th St, Ozone Park, NY 11416",NAN,2021-10-19
+"$2,125,000",2,2,1,-,"1 Prospect Park W #7D, Brooklyn, NY 11215",NAN,2021-10-19
+"$290,000",1,1,8,-,"527 X Ave #3B, Brooklyn, NY 11235",NAN,2021-10-19
+"$3,995,000",3,3,1,-,"959 1st Ave APT 20A, New York, NY 10022",NAN,2021-10-19
+"$2,695,000",3,3,-,-,"285 Riverside Dr APT 4B, New York, NY 10025",NAN,2021-10-19
+"$699,000",1,1,9,-,"210 Riverside Dr APT 9F, New York, NY 10025",NAN,2021-10-19
+"$285,000",1,1,-,-,"558 W 148th St #2A, New York, NY 10031",NAN,2021-10-19
+"$380,000",2,1,9,-,"2155 Daly Ave APT 5A, Bronx, NY 10460",NAN,2021-10-19
+"$3,595,000",2,2,2,-,"200 Mercer St APT 4E, New York, NY 10012",NAN,2021-10-19
+"$25,000,000",4,6,-,-,"944 5th Ave #5, New York, NY 10021",NAN,2021-10-19
+"$279,000",2,1,-,-,"32-45 88th St #611, East Elmhurst, NY 11369",NAN,2021-10-19
+"$1,100,000",1,1,8,-,"333 W 56th St APT 9A, New York, NY 10019",NAN,2021-10-19
+"$749,999",7,3,2,-,"544 Beach 68th St, Far Rockaway, NY 11692",NAN,2021-10-19
+"$739,000",2,2,1,-,"50 Park Ter E APT 4B, New York, NY 10034",NAN,2021-10-19
+"$325,000",2,1,3,-,"89-03 151st Ave #2, Howard Beach, NY 11414",NAN,2021-10-19
+"$1,590,000",1,4,2,-,"4812 93rd St, Elmhurst, NY 11373",NAN,2021-10-19
+"$2,249,000",4,3,2,-,"1060 E 22nd St, Brooklyn, NY 11210",NAN,2021-10-19
+"$865,000",3,2,1,-,"1071 E 32nd St, Brooklyn, NY 11210",NAN,2021-10-19
+"$849,000",3,2,1,-,"3435 Guider Ave APT 5A, Brooklyn, NY 11235",NAN,2021-10-19
+"$1,150,000",2,2,9,-,"657 Warren St APT 3B, Brooklyn, NY 11217",NAN,2021-10-19
+"$719,000",1,1,-,-,"535 W 110th St APT 11G, New York, NY 10025",NAN,2021-10-19
+"$1,695,000",2,1,8,-,"536 E 13th St APT 6R, New York, NY 10009",NAN,2021-10-19
+"$849,000",1,1,7,-,"300 E 40th St APT 26N, New York, NY 10016",NAN,2021-10-19
+"$2,275,000",1,2,1,-,"425 W 50th St APT 12F, New York, NY 10019",NAN,2021-10-19
+"$401,000",S,1,4,-,"103 Clinton St APT 3, New York, NY 10002",NAN,2021-10-19
+"$1,895,000",2,2,1,-,"201 W 70th St APT 25B, New York, NY 10023",NAN,2021-10-19
+"$2,195,000",2,3,1,-,"111 Central Park N #5C, New York, NY 10026",NAN,2021-10-19
+"$1,450,000",1,1,8,-,"60 Riverside Blvd APT 1507, New York, NY 10069",NAN,2021-10-19
+"$495,000",2,1,8,-,"100 Park Ter W APT 4L, New York, NY 10034",NAN,2021-10-19
+"$269,900",1,1,7,-,"740 E 32nd St, Brooklyn, NY 11210",NAN,2021-10-19
+"$1,250,000",7,4,4,-,"3233 Lafayette Ave, Bronx, NY 10465",NAN,2021-10-19
+"$249,999",1,1,7,-,"406 Maryland Ave APT 1C, Staten Island, NY 10305",NAN,2021-10-19
+"$1,199,000",3,1,1,-,"289 Bay 13th St, Brooklyn, NY 11214",NAN,2021-10-19
+"$2,200,000",NAN,NAN,NAN,NAN,"716 E 32nd St, Brooklyn, NY 11210",NAN,2021-10-19
+"$675,000",4,2,-,-,"191-44 115th Ave, Saint Albans, NY 11412",NAN,2021-10-19
+"$395,000",2,1,8,-,"143-39 Barclay Ave #A-2, Flushing, NY 11355",NAN,2021-10-19
+"$299,000",1,1,7,-,"2234 Ocean Ave #12C, Brooklyn, NY 11229",NAN,2021-10-19
+"$1,855,000",2,2,1,-,"11 Hoyt St APT 20E, Brooklyn, NY 11201",NAN,2021-10-19
+"$1,249,000",2,2,8,-,"516 W 47th St APT N7B, New York, NY 10036",NAN,2021-10-19
+"$669,000",1,1,7,-,"303 W 66th St #9D, New York, NY 10023",NAN,2021-10-19
+"$1,100,000",1,1,9,-,"329 W 108th St APT 3C, New York, NY 10025",NAN,2021-10-19
+"$770,000",3,2,1,-,"1333 E 49th St, Brooklyn, NY 11234",NAN,2021-10-19
+"$575,000",1,1,6,-,"735 Lafayette Ave #2A, Brooklyn, NY 11221",NAN,2021-10-19
+"$2,800,000",6,7,3,-,"551 Saint Marks Ave FLOOR 2, Brooklyn, NY 11216",NAN,2021-10-19
+"$2,320,000",2,2,1,-,"206 Front St PENTHOUSE B, Brooklyn, NY 11201",NAN,2021-10-19
+"$499,000",S,1,6,-,"735 Lafayette Ave #4A, Brooklyn, NY 11221",NAN,2021-10-19
+"$1,195,000",S,-,1,-,"246 Sherman St, Brooklyn, NY 11218",NAN,2021-10-19
+"$545,000",3,2,1,-,"1062 Hendrix St, Brooklyn, NY 11207",NAN,2021-10-19
+"$1,075,000",3,2,1,-,"2259 E 18th St, Brooklyn, NY 11229",NAN,2021-10-19
+"$6,500,000",3,4,1,-,"111 Murray St #42A, New York, NY 10007",NAN,2021-10-19
+"$1,900,000",3,2,7,-,"139 Pacific St APT 4, Brooklyn, NY 11201",NAN,2021-10-19
+"$4,125,000",6,6,4,-,"92 Monroe St, Brooklyn, NY 11216",NAN,2021-10-19
+"$450,000",S,1,-,-,"176 E 77th St APT 11A, New York, NY 10075",NAN,2021-10-19
+"$3,695,000",3,4,-,-,"650 Park Ave APT 11F, New York, NY 10065",NAN,2021-10-19
+"$500,000",1,1,8,-,"65-50 Wetherole St #2H, Rego Park, NY 11374",NAN,2021-10-19
+"$859,000",S,1,4,-,"222 W 14th St APT 13C, New York, NY 10011",NAN,2021-10-19
+"$635,000",2,2,8,-,"7009 45th Ave #3D, Woodside, NY 11377",NAN,2021-10-19
+"$1,695,000",2,3,-,-,"425 E 58th St APT 38B, New York, NY 10022",NAN,2021-10-19
+"$13,900,000",5,3,-,-,"271 Central Park W #9E, New York, NY 10024",NAN,2021-10-19
+"$3,950,000",2,3,1,-,"404 Park Ave S APT 11C, New York, NY 10016",NAN,2021-10-19
+"$835,000",1,1,6,-,"5-19 Borden Ave APT 7G, Long Island City, NY 11101",NAN,2021-10-19
+"$799,000",1,1,6,-,"215 W 75th St APT 9A, New York, NY 10023",NAN,2021-10-19
+"$3,295,000",3,3,2,-,"161 W 61st St #26FG, New York, NY 10023",NAN,2021-10-19
+"$20,000,000",5,9,6,-,"1 W 72nd St #82-84, New York, NY 10023",NAN,2021-10-19
+"$1,250,000",1,1,8,-,"400 Central Park W APT 3N, New York, NY 10025",NAN,2021-10-19
+"$765,000",3,2,1,-,"2876 Zulette Ave, Bronx, NY 10461",NAN,2021-10-19
+"$499,000",-,2,-,-,"220 Brighton 1st Ct, Brooklyn, NY 11235",NAN,2021-10-19
+"$1,549,000",5,3,-,-,"18907 35th Ave, Flushing, NY 11358",NAN,2021-10-19
+"$749,888",3,3,1,-,"2926 Lasalle Ave, Bronx, NY 10461",NAN,2021-10-19
+"$489,000",3,3,2,-,"91 Redwood Loop, Staten Island, NY 10309",NAN,2021-10-19
+"$499,000",S,1,6,-,"2932 Brighton 6th St, Brooklyn, NY 11235",NAN,2021-10-19
+"$520,000",3,2,9,-,"32 Remsen St, Staten Island, NY 10304",NAN,2021-10-19
+"$1,225,000",6,5,2,-,"623 Ramona Ave, Staten Island, NY 10309",NAN,2021-10-19
+"$659,000",4,2,-,-,"86-02 124th St, Richmond Hill, NY 11418",NAN,2021-10-19
+"$299,000",1,1,8,-,"269-10 Grand Central Pkwy #3C, Floral Park, NY 11005",NAN,2021-10-19
+"$1,795,000",2,2,1,-,"98 Front St #6T, Brooklyn, NY 11201",NAN,2021-10-19
+"$2,750,000",2,2,1,-,"111 Fulton St PENTHOUSE 110, New York, NY 10038",NAN,2021-10-19
+"$550,000",1,1,6,-,"400 E 17th St APT 312, Brooklyn, NY 11226",NAN,2021-10-19
+"$799,000",3,2,1,-,"2344 E 71st St, Brooklyn, NY 11234",NAN,2021-10-19
+"$549,000",1,1,6,-,"819 Lexington Ave #4R, Brooklyn, NY 11221",NAN,2021-10-19
+"$5,950,000",3,3,3,-,"414 Washington St #4A, New York, NY 10013",NAN,2021-10-19
+"$1,799,000",5,4,3,-,"2568 14th St, Long Island City, NY 11102",NAN,2021-10-19
+"$1,595,000",2,2,1,-,"243 W 70th St APT 4A, New York, NY 10023",NAN,2021-10-19
+"$1,100,000",1,1,7,-,"70 Berry St APT 6C, Brooklyn, NY 11249",NAN,2021-10-19
+"$3,850,000",2,3,1,-,"205 W 76th St APT 1401, New York, NY 10023",NAN,2021-10-19
+"$849,000",4,2,1,-,"117 Piave Ave, Staten Island, NY 10305",NAN,2021-10-19
+"$1,890,000",1,7,5,-,"448 40th St #6, Brooklyn, NY 11232",NAN,2021-10-19
+"$899,000",6,2,2,-,"84-22 91st Ave, Woodhaven, NY 11421",NAN,2021-10-19
+"$900,000",2,2,8,-,"109-15 72nd Rd #3B, Forest Hills, NY 11375",NAN,2021-10-19
+"$1,500,000",5,6,2,-,"158 Beach 122nd St, Rockaway, NY 11694",NAN,2021-10-19
+"$768,000",4,3,1,-,"24432 85th Ave, Bellerose, NY 11426",NAN,2021-10-19
+"$600,000",2,1,9,-,"84-25 Elmhurst Ave #6J, Elmhurst, NY 11373",NAN,2021-10-19
+"$680,000",3,3,1,-,"167 Arthur Ave, Staten Island, NY 10305",NAN,2021-10-19
+"$729,000",4,2,-,-,"1531 Longfellow Ave, Bronx, NY 10460",NAN,2021-10-19
+"$628,000",2,2,1,-,"1663 W 6th St APT 3A, Brooklyn, NY 11223",NAN,2021-10-19
+"$1,380,000",5,4,-,-,"56-30 E Hampton Blvd, Oakland Gardens, NY 11364",NAN,2021-10-19
+"$949,000",3,3,1,-,"25-17 76th St, East Elmhurst, NY 11370",NAN,2021-10-19
+"$1,299,000",-,3,1,-,"490 Van Sicklen St, Brooklyn, NY 11223",NAN,2021-10-19
+"$268,900",2,1,8,-,"3178 Nostrand Ave APT 6L, Brooklyn, NY 11229",NAN,2021-10-19
+"$499,000",-,3,-,-,"2920 Brighton 8th St, Brooklyn, NY 11235",NAN,2021-10-19
+"$899,000",2,1,9,-,"760 Bergen St APT 2L, Brooklyn, NY 11238",NAN,2021-10-19
+"$479,000",S,1,5,-,"618 Monroe St APT 202, Brooklyn, NY 11221",NAN,2021-10-19
+"$825,000",1,1,8,-,"71 Orange St APT 22, Brooklyn, NY 11201",NAN,2021-10-19
+"$599,000",3,3,1,-,"115-30 205th St, Saint Albans, NY 11412",NAN,2021-10-19
+"$1,925,000",2,2,1,-,"85 Jay St FRONT 4F, Brooklyn, NY 11201",NAN,2021-10-19
+"$520,000",S,1,-,-,"185 W End Ave APT 12J, New York, NY 10023",NAN,2021-10-19
+"$1,058,000",1,1,8,-,"138-35 39th Ave UNIT 4K, Flushing, NY 11354",NAN,2021-10-19
+"$685,000",3,2,1,-,"3536 Cambridge Ave APT 5C, Bronx, NY 10463",NAN,2021-10-19
+"$735,000",1,1,-,-,"16 W 16th St APT 1TS, New York, NY 10011",NAN,2021-10-19
+"$3,195,000",3,2,-,-,"1035 Park Ave #7B, New York, NY 10028",NAN,2021-10-19
+"$425,000",2,1,-,-,"37-26 87th St #2BB, Jackson Heights, NY 11372",NAN,2021-10-19
+"$1,699,000",8,3,3,-,"1824 Fowler Ave, Bronx, NY 10462",NAN,2021-10-19
+"$688,000",4,2,1,-,"26 Ramblewood Ave, Staten Island, NY 10308",NAN,2021-10-19
+"$1,350,000",-,6,3,-,"328 Ovington Ave, Brooklyn, NY 11209",NAN,2021-10-19
+"$649,000",3,2,-,-,"133-06 Linden Blvd, South Ozone Park, NY 11420",NAN,2021-10-19
+"$498,000",1,1,7,-,"100-25 Queens Blvd #7D, Forest Hills, NY 11375",NAN,2021-10-19
+"$449,000",3,2,1,-,"397 Neckar Ave #A, Staten Island, NY 10304",NAN,2021-10-19
+"$515,000",3,2,-,-,"110-38 158th St, Jamaica, NY 11433",NAN,2021-10-19
+"$764,900",3,3,-,-,"49 Sheridan Ave, Brooklyn, NY 11208",NAN,2021-10-19
+"$1,999,999",8,4,5,-,"212 Longstreet Ave, Bronx, NY 10465",NAN,2021-10-19
+"$1,075,000",3,2,1,-,"2259 E 18th St, Brooklyn, NY 11229",NAN,2021-10-19
+"$1,099,000",3,3,2,-,"2308 60th St, Brooklyn, NY 11204",NAN,2021-10-19
+"$4,000,000",1,9,-,-,"199 Meserole St, Brooklyn, NY 11206",NAN,2021-10-19
+"$650,000",3,2,1,-,"2318 Morgan Ave, Bronx, NY 10469",NAN,2021-10-19
+"$255,000",1,1,-,-,"212-04 73rd Ave APT 6P, Oakland Gardens, NY 11364",NAN,2021-10-19
+"$1,500,000",7,3,5,-,"347 Westervelt Ave, Staten Island, NY 10301",NAN,2021-10-19
+"$669,000",4,4,1,-,"120-30 147th St, Jamaica, NY 11436",NAN,2021-10-19
+"$1,358,888",5,3,-,-,"49-75 175th Pl, Fresh Meadows, NY 11365",NAN,2021-10-19
+"$289,000",1,1,-,-,"67-50 Thornton Pl APT 2T, Forest Hills, NY 11375",NAN,2021-10-19
+"$889,999",2,1,-,-,"68-14 60th Rd, Maspeth, NY 11378",NAN,2021-10-19
+"$358,000",2,1,7,-,"72-65 Little Neck Pkwy #65B, Glen Oaks, NY 11004",NAN,2021-10-19
+"$385,000",1,1,-,-,"138-15 Franklin Ave APT 405, Flushing, NY 11355",NAN,2021-10-19
+"$418,000",1,1,9,-,"14205 Roosevelt Ave APT 505, Flushing, NY 11354",NAN,2021-10-19
+"$495,000",2,1,1,-,"1831 Nereid Ave, Bronx, NY 10466",NAN,2021-10-19
+"$459,000",1,1,-,-,"77 Eastern Pkwy #D5, Brooklyn, NY 11238",NAN,2021-10-19
+"$2,625,000",3,3,1,-,"85 Jay St #7E, Brooklyn, NY 11201",NAN,2021-10-19
+"$1,495,000",3,3,1,-,"1003 E 3rd St, Brooklyn, NY 11230",NAN,2021-10-19
+"$339,000",1,1,7,-,"65-35 Yellowstone Blvd #4G, Forest Hills, NY 11375",NAN,2021-10-19
+"$725,000",3,2,1,-,"1646 Colden Ave, Bronx, NY 10462",NAN,2021-10-19
+"$475,000",1,1,4,-,"166 E 92nd St APT 1D, New York, NY 10128",NAN,2021-10-19
+"$1,300,000",1,2,-,-,"305 W 72nd St APT 2A, New York, NY 10023",NAN,2021-10-19
+"$1,575,000",2,2,1,-,"35 Park Ave APT 10G, New York, NY 10016",NAN,2021-10-19
+"$775,000",3,2,9,-,"148 Atlantic Ave, Staten Island, NY 10304",NAN,2021-10-19
+"$1,375,000",S,1,6,-,"108 Leonard St APT 2E, New York, NY 10013",NAN,2021-10-19
+"$1,050,000",4,2,1,-,"309 E 108th St APT 2E, New York, NY 10029",NAN,2021-10-19
+"$574,999",3,2,1,-,"1373 Hollywood Ave, Bronx, NY 10461",NAN,2021-10-19
+"$1,275,000",9,5,4,-,"2845 E 196th St, Bronx, NY 10461",NAN,2021-10-19
+"$1,800,000",2,2,1,-,"121 E 23rd St APT 5D, New York, NY 10010",NAN,2021-10-19
+"$839,000",1,1,7,-,"13103 40th Rd #11S, Flushing, NY 11354",NAN,2021-10-19
+"$2,500,000",2,2,1,-,"333 W 56th St #5MN, New York, NY 10019",NAN,2021-10-19
+"$1,175,000",1,1,9,-,"310 E 46th St APT 5V, New York, NY 10017",NAN,2021-10-19
+"$390,000",2,1,-,-,"1901 Madison Ave APT 404, New York, NY 10035",NAN,2021-10-19
+"$730,000",2,2,7,-,"131-11 Fowler Ave #7A, Flushing, NY 11355",NAN,2021-10-19
+"$1,249,000",4,3,-,-,"214-02 40th Ave, Bayside, NY 11361",NAN,2021-10-19
+"$775,000",5,2,1,-,"24120 Caney Rd, Jamaica, NY 11422",NAN,2021-10-19
+"$3,250,000",4,4,3,-,"279 Wyckoff St, Brooklyn, NY 11217",NAN,2021-10-19
+"$2,425,000",3,3,1,-,"50 Bridge Park Dr #3C, Brooklyn, NY 11201",NAN,2021-10-19
+"$850,000",5,2,1,-,"14038 Charles Ln, Jamaica, NY 11413",NAN,2021-10-19
+"$600,000",4,2,1,-,"3748 Polar St, Brooklyn, NY 11224",NAN,2021-10-19
+"$1,699,000",3,3,1,-,"1160 E 5th St, Brooklyn, NY 11230",NAN,2021-10-19
+"$349,900",2,2,1,-,"1874 Pelham Pkwy S APT 4R, Bronx, NY 10461",NAN,2021-10-19
+"$8,495,000",2,3,2,-,"515 18th St #1016, New York, NY 10011",NAN,2021-10-19
+"$725,000",1,1,6,-,"181 E 101st St #508, New York, NY 10029",NAN,2021-10-19
+"$525,000",S,1,4,-,"181 E 101st St #505, New York, NY 10029",NAN,2021-10-19
+"$1,250,000",3,2,1,-,"181 E 101st St #606, New York, NY 10029",NAN,2021-10-19
+"$1,165,000",3,2,9,-,"181 E 101st St #509, New York, NY 10029",NAN,2021-10-19
+"$610,000",S,1,5,-,"181 E 101st St #602, New York, NY 10029",NAN,2021-10-19
+"$500,000",S,1,4,-,"181 E 101st St #407, New York, NY 10029",NAN,2021-10-19
+"$835,000",2,2,7,-,"181 E 101st St #403, New York, NY 10029",NAN,2021-10-19
+"$765,000",1,1,6,-,"181 E 101st St #401, New York, NY 10029",NAN,2021-10-19
+"$2,425,000",1,2,1,-,"515 18th St #601, New York, NY 10011",NAN,2021-10-19
+"$16,490,000",6,6,3,-,"1 Central Park S #110102, New York, NY 10019",NAN,2021-10-19
+"$888,888",4,3,-,-,"84-01 Doran Ave, Ridgewood, NY 11385",NAN,2021-10-19
+"$125,000",1,1,5,-,"3692 Broadway #4, New York, NY 10031",NAN,2021-10-19
+"$889,000",7,4,3,-,"1421 Teller Ave, Bronx, NY 10456",NAN,2021-10-19
+"$449,000",3,2,1,-,"31 Marc St, Staten Island, NY 10314",NAN,2021-10-19
+"$648,000",3,3,1,-,"68 Caswell Ln, Staten Island, NY 10314",NAN,2021-10-19
+"$180,000",2,1,7,-,"920 Metcalf Ave APT 5A, Bronx, NY 10473",NAN,2021-10-19
+"$768,000",2,2,1,-,"140-55 34th Ave #2J, Flushing, NY 11354",NAN,2021-10-19
+"$999,000",3,4,3,-,"189 Mason Blvd, Staten Island, NY 10309",NAN,2021-10-19
+"$999,000",3,4,3,-,"197 Mason Blvd, Staten Island, NY 10309",NAN,2021-10-19
+"$679,000",3,1,1,-,"364 Sleight Ave, Staten Island, NY 10307",NAN,2021-10-19
+"$930,000",2,2,7,-,"86 Canal St #8D, New York, NY 10002",NAN,2021-10-19
+"$999,999",3,2,1,-,"1370 E 26th St, Brooklyn, NY 11210",NAN,2021-10-19
+"$833,888",4,3,-,-,"240-43 66th Ave, Little Neck, NY 11362",NAN,2021-10-19
+"$1,199,000",3,5,1,-,"218 Rensselaer Ave, Staten Island, NY 10312",NAN,2021-10-19
+"$995,000",2,1,1,-,"56 Court St APT 3B, Brooklyn, NY 11201",NAN,2021-10-19
+"$1,550,000",2,2,1,-,"40 Broad St FRONT 1H, New York, NY 10004",NAN,2021-10-19
+"$3,795,000",4,3,2,-,"573 4th St, Brooklyn, NY 11215",NAN,2021-10-19
+"$3,600,000",7,6,5,-,"130 Lincoln Rd #1, Brooklyn, NY 11225",NAN,2021-10-19
+"$449,000",2,1,-,-,"69-10 Yellowstone Blvd #520, Forest Hills, NY 11375",NAN,2021-10-19
+"$1,995,000",3,3,1,-,"200 Riverside Blvd APT 7A, New York, NY 10069",NAN,2021-10-19
+"$695,000",2,1,6,-,"1810 3rd Ave APT A8A, New York, NY 10029",NAN,2021-10-19
+"$1,995,000",3,3,1,-,"200 Riverside Blvd APT 7A, New York, NY 10069",NAN,2021-10-19
+"$5,400,000",3,4,2,-,"400 Park Ave S APT 28B, New York, NY 10016",NAN,2021-10-19
+"$600,000",4,2,-,-,"2952 Gunther Ave, Bronx, NY 10469",NAN,2021-10-19
+"$929,000",6,4,2,-,"2233 Boller Ave, Bronx, NY 10475",NAN,2021-10-19
+"$625,000",-,1,1,-,"5 Winthrop Pl, Staten Island, NY 10314",NAN,2021-10-19
+"$335,000",1,1,7,-,"55-25 31st Ave APT 6P, Woodside, NY 11377",NAN,2021-10-19
+"$879,000",4,3,-,-,"11114 91st Ave, Jamaica, NY 11418",NAN,2021-10-19
+"$535,000",3,1,-,-,"101 Linden St #4EE, Brooklyn, NY 11221",NAN,2021-10-19
+"$599,000",2,2,1,-,"2158 Ocean Ave APT 2A, Brooklyn, NY 11229",NAN,2021-10-19
+"$1,695,000",2,1,-,-,"27 Prospect Park W #4B, Brooklyn, NY 11215",NAN,2021-10-19
+"$1,588,000",4,3,2,-,"92 Bay Ridge Ave, Brooklyn, NY 11220",NAN,2021-10-19
+"$975,000",2,3,1,-,"392 11th St APT 1A, Brooklyn, NY 11215",NAN,2021-10-19
+"$635,000",1,1,-,-,"170 W 74th St APT 1207, New York, NY 10023",NAN,2021-10-19
+"$1,438,888",5,4,2,-,"2638 169th St, Flushing, NY 11358",NAN,2021-10-19
+"$599,000",1,1,-,-,"771 W End Ave APT 3C1, New York, NY 10025",NAN,2021-10-19
+"$2,195,000",2,2,1,-,"110 3rd Ave APT 8A, New York, NY 10003",NAN,2021-10-19
+"$730,000",6,2,-,-,"322 Beach 48 St, Far Rockaway, NY 11691",NAN,2021-10-19
+"$6,500,000",4,2,2,-,"19 Avenue D, New York, NY 10009",NAN,2021-10-19
+"$799,000",4,2,2,-,"3130 Kingsland Ave, Bronx, NY 10469",NAN,2021-10-19
+"$349,900",2,2,1,-,"1874 Pelham Pkwy S APT 4R, Bronx, NY 10461",NAN,2021-10-19
+"$650,000",3,2,2,-,"182 Beach 99th St, Far Rockaway, NY 11694",NAN,2021-10-19
+"$525,000",2,1,1,-,"114-56 212th St, Cambria Heights, NY 11411",NAN,2021-10-19
+"$598,000",3,2,1,-,"11219 39th Ave #1B, Corona, NY 11368",NAN,2021-10-19
+"$999,000",5,4,3,-,"260 Hillman Ave, Staten Island, NY 10314",NAN,2021-10-19
+"$2,299,000",4,5,3,-,"100 Copperflagg Ln, Staten Island, NY 10304",NAN,2021-10-19
+"$1,650,000",2,2,-,-,"645 W End Ave APT 2F, New York, NY 10025",NAN,2021-10-19
+"$1,388,888",2,2,-,-,"214-01 47th Ave, Bayside, NY 11361",NAN,2021-10-19
+"$220,000",S,1,4,-,"84-20 51st Ave #4A, Elmhurst, NY 11373",NAN,2021-10-19
+"$1,188,000",4,3,1,-,"365 Liberty Ave, Staten Island, NY 10305",NAN,2021-10-19
+"$409,000",2,2,9,-,"654 Wilcox Ave, Bronx, NY 10465",NAN,2021-10-19
+"$790,000",6,2,1,-,"1209 Beach Ave, Bronx, NY 10472",NAN,2021-10-19
+"$1,150,000",6,3,-,-,"108-53 50th Ave, Corona, NY 11368",NAN,2021-10-19
+"$589,000",3,2,-,-,"103-20 124th St, South Richmond Hill, NY 11419",NAN,2021-10-19
+"$780,000",3,2,1,-,"133-35 124th St, South Ozone Park, NY 11420",NAN,2021-10-19
+"$1,050,000",4,2,1,-,"2821 202nd St, Flushing, NY 11360",NAN,2021-10-19
+"$899,000",3,2,-,-,"117-20 8th Ave, College Pt, NY 11356",NAN,2021-10-19
+"$419,000",1,1,-,-,"69-63 Park Dr E #B, Flushing, NY 11367",NAN,2021-10-19
+"$1,125,000",1,1,8,-,"510 Driggs Ave #4J, Brooklyn, NY 11211",NAN,2021-10-19
+"$675,000",3,3,1,-,"21 Stobe Ave, Staten Island, NY 10306",NAN,2021-10-19
+"$1,180,000",4,4,-,-,"198 Laguardia Ave, Staten Island, NY 10314",NAN,2021-10-19
+"$925,000",5,3,-,-,"185-01 Galway Ave, Saint Albans, NY 11412",NAN,2021-10-19
+"$278,800",S,1,6,-,"220-55 46th Ave APT 8M, Bayside, NY 11361",NAN,2021-10-19
+"$649,000",1,1,6,-,"638 Warren St APT 1L, Brooklyn, NY 11217",NAN,2021-10-19
+"$635,000",S,1,4,-,"350 W 53rd St APT 3E, New York, NY 10019",NAN,2021-10-19
+"$349,900",1,1,1,-,"3530 Henry Hudson Pkwy APT 11F, Bronx, NY 10463",NAN,2021-10-19
+"$329,888",2,1,9,-,"42-14 Union St #4B, Flushing, NY 11355",NAN,2021-10-19
+"$220,000",1,1,7,-,"26-19 141st St #4F, Flushing, NY 11354",NAN,2021-10-19
+"$499,000",1,1,5,-,"26 Goodwin Pl #4R, Brooklyn, NY 11221",NAN,2021-10-19
+"$49,900,000",5,7,8,-,"25 Columbus Cir FLOOR 80, New York, NY 10019",NAN,2021-10-19
+"$415,000",1,1,-,-,"240 E 76th St APT 2A, New York, NY 10021",NAN,2021-10-19
+"$2,750,000",6,6,-,-,"128 Guernsey St, Brooklyn, NY 11222",NAN,2021-10-19
+"$964,900",4,5,2,-,"188 Sinclair Ave, Staten Island, NY 10312",NAN,2021-10-19
+"$1,200,000",4,2,-,-,"2222 E 17th St, Brooklyn, NY 11229",NAN,2021-10-19
+"$748,000",3,1,1,-,"115-16 Poppenhusen Ave, College Pt, NY 11356",NAN,2021-10-19
+"$465,000",2,1,4,-,"887 Pine St, Brooklyn, NY 11208",NAN,2021-10-19
+"$575,000",S,1,5,-,"226 50th Ave APT 4A, Long Island City, NY 11101",NAN,2021-10-19
+"$1,425,000",3,1,-,-,"210 W 21st St APT 6FE, New York, NY 10011",NAN,2021-10-19
+"$3,250,000",4,4,2,-,"2025 Broadway, New York, NY 10023",NAN,2021-10-19
+"$1,000,000",1,1,7,-,"344 W 23rd St APT 5E, New York, NY 10011",NAN,2021-10-19
+"$769,000",2,1,1,-,"148-51 60th Ave, Flushing, NY 11355",NAN,2021-10-19
+"$879,000",5,2,1,-,"75-08 60th Ln, Ridgewood, NY 11385",NAN,2021-10-19
+"$875,000",3,2,1,-,"6424 84th St, Flushing, NY 11379",NAN,2021-10-19
+"$395,000",1,1,7,-,"190 Fordham St APT 2, Bronx, NY 10464",NAN,2021-10-19
+"$715,000",3,2,1,-,"3264 Fairmount Ave, Bronx, NY 10465",NAN,2021-10-19
+"$318,888",2,1,-,-,"217-12 73rd Ave #385A2, Oakland Gardens, NY 11364",NAN,2021-10-19
+"$530,000",3,2,-,-,"183-15 145th Dr, Springfield Gardens, NY 11413",NAN,2021-10-19
+"$499,900",3,3,1,-,"225 Signs Rd APT C, Staten Island, NY 10314",NAN,2021-10-19
+"$1,399,000",8,5,3,-,"7137 66th Dr, Flushing, NY 11379",NAN,2021-10-19
+"$419,000",2,2,9,-,"27 Regis Dr, Staten Island, NY 10314",NAN,2021-10-19
+"$1,780,000",3,3,-,-,"227 E 57th St #12EG, New York, NY 10022",NAN,2021-10-19
+"$680,000",3,2,1,-,"80-72 88th Rd, Woodhaven, NY 11421",NAN,2021-10-19
+"$673,000",3,3,1,-,"105-06 103rd Ave, Ozone Park, NY 11417",NAN,2021-10-19
+"$985,000",1,1,8,-,"65 Central Park W APT 4F, New York, NY 10023",NAN,2021-10-19
+"$2,495,000",3,4,2,-,"160 Imlay St APT 6D2, Brooklyn, NY 11231",NAN,2021-10-19
+"$845,000",2,1,-,-,"188 Meserole Ave APT 4S, Brooklyn, NY 11222",NAN,2021-10-19
+"$875,000",8,3,2,-,"658 E 216th St, Bronx, NY 10467",NAN,2021-10-19
+"$698,888",3,2,1,-,"91-46 82nd St, Woodhaven, NY 11421",NAN,2021-10-19
+"$275,000",1,1,-,-,"66-01 Burns St #3Z, Rego Park, NY 11374",NAN,2021-10-19
+"$3,199,000",4,4,3,-,"2223 Avenue M, Brooklyn, NY 11210",NAN,2021-10-19
+"$684,900",3,2,1,-,"84 Hewitt Ave, Staten Island, NY 10301",NAN,2021-10-19
+"$699,999",4,3,-,-,"194-18A SW Hollis Ave, Saint Albans, NY 11412",NAN,2021-10-19
+"$528,000",4,1,1,-,"18 Laurel Ave, Staten Island, NY 10304",NAN,2021-10-19
+"$419,000",1,1,7,-,"8371 116th St APT 6C, Richmond Hill, NY 11418",NAN,2021-10-19
+"$640,000",1,1,6,-,"1326 Madison Ave APT 23, New York, NY 10128",NAN,2021-10-19
+"$579,000",3,3,1,-,"1751 E 53rd St, Brooklyn, NY 11234",NAN,2021-10-19
+"$2,900,000",1,2,1,-,"122 Greenwich Ave APT 6, New York, NY 10011",NAN,2021-10-19
+"$579,000",3,3,8,-,"150-61 116th Rd, Jamaica, NY 11434",NAN,2021-10-19
+"$1,300,000",5,5,2,-,"1342 Gates Ave, Brooklyn, NY 11221",NAN,2021-10-19
+"$859,000",3,3,-,-,"105-10 217th Ln, Queens Village, NY 11429",NAN,2021-10-19
+"$898,000",8,3,3,-,"498 Concord Ave, Bronx, NY 10455",NAN,2021-10-19
+"$595,000",1,1,4,-,"100 Maspeth Ave APT 6K, Brooklyn, NY 11211",NAN,2021-10-19
+"$368,888",2,2,1,-,"36 Hamilton Ave APT 5D, Staten Island, NY 10301",NAN,2021-10-19
+"$799,000",3,2,1,-,"7711 62nd St, Glendale, NY 11385",NAN,2021-10-19
+"$699,800",4,3,-,-,"104-20 204th St, Saint Albans, NY 11412",NAN,2021-10-19
+"$649,000",4,3,1,-,"45 Gloria Ct, Staten Island, NY 10302",NAN,2021-10-19
+"$350,000",2,2,-,-,"83-11 139th St #3F, Jamaica, NY 11435",NAN,2021-10-19
+"$1,530,000",4,3,2,-,"15434 21st Ave, Flushing, NY 11357",NAN,2021-10-19
+"$1,575,000",2,1,1,-,"215 W 92nd St APT 3F, New York, NY 10025",NAN,2021-10-19
+"$1,125,000",5,2,1,-,"1515 64th St, Brooklyn, NY 11219",NAN,2021-10-19
+"$308,000",1,1,5,-,"20 Donna Ct APT 9, Staten Island, NY 10314",NAN,2021-10-19
+"$589,000",1,1,4,-,"100 Maspeth Ave APT 4K, Brooklyn, NY 11211",NAN,2021-10-19
+"$2,600,000",8,4,3,-,"1824 55th St, Brooklyn, NY 11204",NAN,2021-10-19
+"$899,000",5,3,2,-,"3238 White Plains Rd #1, Bronx, NY 10467",NAN,2021-10-19
+"$1,200,000",7,3,-,-,"2119 Grand Ave #A, Bronx, NY 10453",NAN,2021-10-19
+"$889,000",3,2,1,-,"4605 217th St, Flushing, NY 11361",NAN,2021-10-19
+"$1,199,000",5,3,3,-,"2 Bionia Ave, Staten Island, NY 10305",NAN,2021-10-19
+"$355,000",2,1,-,-,"1615 Avenue 606, Brooklyn, NY 11230",NAN,2021-10-19
+"$375,000",1,1,-,-,"1615 Avenue 305, Brooklyn, NY 11230",NAN,2021-10-19
+"$219,000",1,1,-,-,"204-12 35th Ave FLOOR 2, Bayside, NY 11361",NAN,2021-10-19
+"$2,180,000",6,3,3,-,"8009 13th Ave, Brooklyn, NY 11228",NAN,2021-10-19
+"$329,000",1,1,8,-,"2935 W 5th St APT 4A, Brooklyn, NY 11224",NAN,2021-10-19
+"$948,000",4,3,1,-,"73-26 192nd St, Fresh Meadows, NY 11366",NAN,2021-10-19
+"$7,450,000",6,6,5,-,"216 E 18th St #1, New York, NY 10003",NAN,2021-10-19
+"$2,165,000",2,2,1,-,"252 South St UNIT 12D, New York, NY 10002",NAN,2021-10-19
+"$885,000",2,1,1,-,"572 Grand St APT G505, New York, NY 10002",NAN,2021-10-19
+"$1,600,000",3,3,-,-,"138 E 36th St APT 1C, New York, NY 10016",NAN,2021-10-19
+"$2,200,000",1,2,1,-,"641 5th Ave #42C, New York, NY 10022",NAN,2021-10-19
+"$92,358",1,1,7,-,"504 W 171st St APT 4C, New York, NY 10032",NAN,2021-10-19
+"$995,000",1,1,8,-,"220 Riverside Blvd #4C, New York, NY 10069",NAN,2021-10-19
+"$560,000",1,1,5,-,"1238 63rd St #208, Brooklyn, NY 11219",NAN,2021-10-19
+"$259,000",2,1,1,-,"3119 Bailey Ave APT 3-K, Bronx, NY 10463",NAN,2021-10-19
+"$248,000",1,1,8,-,"84-01 Main St #220, Jamaica, NY 11435",NAN,2021-10-19
+"$650,000",3,2,1,-,"2877 W 35th St, Brooklyn, NY 11224",NAN,2021-10-19
+"$100,000",S,1,-,-,"1230 Boston Rd APT 29, Bronx, NY 10456",NAN,2021-10-19
+"$2,110,000",2,2,1,-,"252 South St #59B, New York, NY 10002",NAN,2021-10-19
+"$3,500,000",1,7,5,-,"1263 President St, Brooklyn, NY 11213",NAN,2021-10-19
+"$875,800",3,2,1,-,"4606 189th St, Flushing, NY 11358",NAN,2021-10-19
+"$139,000",S,1,-,-,"16420 Highland Ave APT 3K, Jamaica, NY 11432",NAN,2021-10-19
+"$629,000",3,2,1,-,"3478 Kingsland Ave, Bronx, NY 10469",NAN,2021-10-19
+"$1,150,000",2,1,-,-,"231 W 21st St APT 5B, New York, NY 10011",NAN,2021-10-19
+"$1,599,000",5,3,-,-,"25-49 82nd St, East Elmhurst, NY 11370",NAN,2021-10-19
+"$3,295,000",3,3,2,-,"253 Pacific St #1, Brooklyn, NY 11201",NAN,2021-10-19
+"$625,000",1,1,7,-,"14-47 28th Ave #BB2, Astoria, NY 11102",NAN,2021-10-19
+"$569,900",3,4,1,-,"17 Lillie Ln, Staten Island, NY 10314",NAN,2021-10-19
+"$775,000",4,2,2,-,"1335 Saint Marks Ave, Brooklyn, NY 11233",NAN,2021-10-19
+"$399,000",2,1,9,-,"102-21 63rd Rd #A16, Forest Hills, NY 11375",NAN,2021-10-19
+"$1,100,000",4,2,1,-,"144-36 73rd Ave, Flushing, NY 11367",NAN,2021-10-19
+"$329,000",2,1,-,-,"105-30 66th Ave #5D, Forest Hills, NY 11375",NAN,2021-10-19
+"$449,000",2,2,-,-,"155-02 116th Rd, Jamaica, NY 11434",NAN,2021-10-19
+"$489,000",2,2,1,-,"109 Lombard Ct, Staten Island, NY 10312",NAN,2021-10-19
+"$325,000",1,1,6,-,"9801 Shore Rd APT AA, Brooklyn, NY 11209",NAN,2021-10-19
+"$7,300,000+",4,5,2,-,"Four Bedroom Residence Plan, 200 Amsterdam",NAN,2021-10-19
+"$799,000",4,3,1,-,"987 E 39th St, Brooklyn, NY 11210",NAN,2021-10-19
+"$1,670,000",1,2,-,-,"431 E 6th St #G2, New York, NY 10009",NAN,2021-10-19
+"$1,970,000",2,2,1,-,"140 W 22nd St APT 6, New York, NY 10011",NAN,2021-10-19
+"$1,575,000",4,3,1,-,"6306 138th St, Flushing, NY 11367",NAN,2021-10-19
+"$639,000",1,1,7,-,"132-35 Sanford Ave FLOOR 6, Flushing, NY 11355",NAN,2021-10-19
+"$1,175,000",6,3,-,-,"86-24 143rd St, Jamaica, NY 11435",NAN,2021-10-19
+"$1,690,000",8,2,2,-,"518 Senator St, Brooklyn, NY 11220",NAN,2021-10-19
+"$639,000",2,2,-,-,"14223 37th Ave APT 3D, Flushing, NY 11354",NAN,2021-10-19
+"$699,000",5,4,1,-,"6814 Elizabeth Ave, Far Rockaway, NY 11692",NAN,2021-10-19
+"$420,000",3,2,1,-,"758 Brook Ave #56D, Bronx, NY 10451",NAN,2021-10-19
+"$650,000",4,2,1,-,"2842 W 31st St, Brooklyn, NY 11224",NAN,2021-10-19
+"$3,995,000",3,3,3,-,"200 Mercer St APT 1G, New York, NY 10012",NAN,2021-10-19
+"$1,600,000",1,2,1,-,"112 W 18th St APT 4B, New York, NY 10011",NAN,2021-10-19
+"$1,950,000",7,4,2,-,"976 56th St, Brooklyn, NY 11219",NAN,2021-10-19
+"$999,000",7,2,2,-,"92-13 103rd Ave, Ozone Park, NY 11416",NAN,2021-10-19
+"$1,450,000",1,6,-,-,"42-01 97th Pl, Corona, NY 11368",NAN,2021-10-19
+"$799,000",7,5,3,-,"410 Beach 22nd St, Far Rockaway, NY 11691",NAN,2021-10-19
+"$449,900",3,1,1,-,"34C Edgewater Park Park #34C, Bronx, NY 10465",NAN,2021-10-19
+"$1,100,000",4,3,1,-,"6829 Loubet St, Flushing, NY 11375",NAN,2021-10-19
+"$315,000",1,1,-,-,"82-06 34th Ave APT 1H, Jackson Heights, NY 11372",NAN,2021-10-19
+"$475,000",1,1,8,-,"100 Remsen St #K7, Brooklyn, NY 11201",NAN,2021-10-19
+"$519,000",S,1,-,-,"127 W 96th St APT 13C, New York, NY 10025",NAN,2021-10-19
+"$819,990",6,2,-,-,"25602 Francis Lewis Blvd, Rosedale, NY 11422",NAN,2021-10-19
+"$985,000",4,3,-,-,"(undisclosed Address), Jamaica, NY 11435",NAN,2021-10-19
+"$185,000",1,1,7,-,"2545 Sedgwick Ave APT 5-G, Bronx, NY 10468",NAN,2021-10-19
+"$599,999",3,3,-,-,"14211 Sutter Ave, Jamaica, NY 11436",NAN,2021-10-19
+"$775,000",1,1,1,-,"35 Seacoast Ter APT V, Brooklyn, NY 11235",NAN,2021-10-19
+"$400,000",1,1,6,-,"50-05 43rd Ave #5F, Woodside, NY 11377",NAN,2021-10-19
+"$925,000",5,2,-,-,"163-07 92nd St, Howard Beach, NY 11414",NAN,2021-10-19
+"$289,900",1,1,-,-,"94-11 59th Ave #E1, Elmhurst, NY 11373",NAN,2021-10-19
+"$335,000",S,1,-,-,"321 E 45th St APT 1C, New York, NY 10017",NAN,2021-10-19
+"$699,900",3,3,-,-,"14-70 Point Breeze Pl, Far Rockaway, NY 11691",NAN,2021-10-19
+"$815,000",3,2,1,-,"2371 Bragg St, Brooklyn, NY 11229",NAN,2021-10-19
+"$1,200,000",6,4,2,-,"169-03 89th Ave, Jamaica, NY 11432",NAN,2021-10-19
+"$190,000",1,1,8,-,"3311 Giles Pl APT 4H, Bronx, NY 10463",NAN,2021-10-19
+"$995,000",2,2,9,-,"2323 31st Ave #6E-6M, Astoria, NY 11106",NAN,2021-10-19
+"$2,150,000",2,2,1,-,"171 Columbia Hts #4D, Brooklyn, NY 11201",NAN,2021-10-19
+"$660,000",S,1,7,-,"440 E 6th St APT 4D, New York, NY 10009",NAN,2021-10-19
+"$3,910,000",2,2,1,-,"30 Riverside Blvd #35G, New York, NY 10069",NAN,2021-10-19
+"$1,695,000",3,2,-,-,"260 W End Ave #2/3E, New York, NY 10023",NAN,2021-10-19
+"$1,350,000",4,3,-,-,"217-26 Corbett Road, Bayside, NY 11361",NAN,2021-10-19
+"$25,000,000",5,6,4,-,"115 Central Park W, New York, NY 10023",NAN,2021-10-19
+"$875,000",S,1,-,-,"431 E 6th St #G, New York, NY 10009",NAN,2021-10-19
+"$240,000",S,2,4,-,"175 Zoe St APT 2O, Staten Island, NY 10305",NAN,2021-10-19
+"$1,650,000",6,2,-,-,"639 Ovington Ave, Brooklyn, NY 11209",NAN,2021-10-19
+"$399,000",2,2,8,-,"15306 111th Rd, Jamaica, NY 11433",NAN,2021-10-19
+"$699,000",1,1,5,-,"225 15th St APT 3B, Brooklyn, NY 11215",NAN,2021-10-19
+"$3,895,000",3,4,1,-,"322 W 57th St #Q56, New York, NY 10019",NAN,2021-10-19
+"$379,000",2,1,-,-,"14-16 212th St #168, Bayside, NY 11360",NAN,2021-10-19
+"$795,000",S,1,-,-,"431 E 6th St APT 2, New York, NY 10009",NAN,2021-10-19
+"$499,000",3,1,1,-,"13328 223rd St, Laurelton, NY 11413",NAN,2021-10-19
+"$285,000",S,1,6,-,"144-70 41st Ave APT 4D, Flushing, NY 11355",NAN,2021-10-19
+"$999,000",-,3,2,-,"92 Clearmont Ave, Staten Island, NY 10309",NAN,2021-10-19
+"$599,000",1,1,-,-,"40 W 67th St APT 1B, New York, NY 10023",NAN,2021-10-19
+"$1,595,000",2,2,1,-,"230 E 15th St, New York, NY 10003",NAN,2021-10-19
+"$1,020,000",1,1,6,-,"18 W 48th St APT 4D, New York, NY 10036",NAN,2021-10-19
+"$595,000",S,1,-,-,"22 Grove St APT 1D, New York, NY 10014",NAN,2021-10-19
+"$500,000",2,2,2,-,"140 Robin Rd, Staten Island, NY 10305",NAN,2021-10-19
+"$399,999",2,1,-,-,"99-40 63rd Rd APT 14X, Rego Park, NY 11374",NAN,2021-10-19
+"$2,480,000",1,4,4,-,"33 26/24 145th Pl, Flushing, NY 11354",NAN,2021-10-19
+"$899,000",3,3,-,-,"5605 184th St, Flushing, NY 11365",NAN,2021-10-19
+"$2,100,000",1,6,-,-,"250 53rd St, Brooklyn, NY 11220",NAN,2021-10-19
+"$675,000",1,1,8,-,"13235 Sanford Ave, Flushing, NY 11355",NAN,2021-10-19
+"$149,000",NAN,NAN,NAN,NAN,"0 Rosewood Ln, Castleton, VT 05735",NAN,2021-10-19
+"$399,000",2,1,8,-,"12 Edgewater Park #B, Bronx, NY 10465",NAN,2021-10-19
+"$565,000",1,1,6,-,"421 Maple St #301, Brooklyn, NY 11225",NAN,2021-10-19
+"$565,000",1,1,6,-,"421 Maple St #401, Brooklyn, NY 11225",NAN,2021-10-19
+"$338,000",1,1,7,-,"755 Narrows Rd N, Staten Island, NY 10304",NAN,2021-10-19
+"$830,000",3,2,2,-,"143 E 32nd St, Brooklyn, NY 11226",NAN,2021-10-19
+"$599,000",3,2,1,-,"143 Bay Ridge Pkwy #3, Brooklyn, NY 11209",NAN,2021-10-19
+"$675,000",3,2,1,-,"1205 Van Nest Ave, Bronx, NY 10461",NAN,2021-10-19
+"$599,000",1,1,6,-,"505 E 79th St APT 8F, New York, NY 10075",NAN,2021-10-19
+"$185,000",1,1,7,-,"2545 Sedgwick Ave APT 5-G, Bronx, NY 10468",NAN,2021-10-19
+"$749,995",3,3,2,-,"32 Purdue St, Staten Island, NY 10314",NAN,2021-10-19
+"$1,598,000",1,4,3,-,"770 42nd St, Brooklyn, NY 11232",NAN,2021-10-19
+"$879,000",3,2,1,-,"147-03 78th Ave, Flushing, NY 11367",NAN,2021-10-19
+"$769,999",7,3,3,-,"1508 E 222nd St, Bronx, NY 10469",NAN,2021-10-19
+"$975,000",3,2,1,-,"63-44 72nd St, Middle Village, NY 11379",NAN,2021-10-19
+"$485,000",2,1,-,-,"3343 14th St APT 2B, Astoria, NY 11106",NAN,2021-10-19
+"$1,150,000",2,1,-,-,"154 W 77th St #1R, New York, NY 10024",NAN,2021-10-19
+"$1,730,000",8,4,2,-,"81-18 Pettit Ave, Elmhurst, NY 11373",NAN,2021-10-19
+"$860,000",4,3,2,-,"13811 223rd St, Laurelton, NY 11413",NAN,2021-10-19
+"$185,000",1,1,8,-,"3901 Independence Ave APT 7D, Bronx, NY 10463",NAN,2021-10-19
+"$168,000",1,1,-,-,"24120 Northern Blvd APT 1C, Flushing, NY 11362",NAN,2021-10-19
+"$839,000",3,3,1,-,"1947 Ryder St, Brooklyn, NY 11234",NAN,2021-10-19
+"$400,000",1,1,5,-,"2801 E 26th St APT 2A, Brooklyn, NY 11235",NAN,2021-10-19
+"$525,000",S,1,5,-,"242 E 25th St APT 10E, New York, NY 10010",NAN,2021-10-19
+"$750,000",4,2,-,-,"94-31 134th Ave, Ozone Park, NY 11417",NAN,2021-10-19
+"$630,000",2,2,1,-,"2839 W 28th St, Brooklyn, NY 11224",NAN,2021-10-19
+"$625,000",3,2,-,-,"71-26 Sutton Pl #3, Fresh Meadows, NY 11365",NAN,2021-10-19
+"$1,050,000",4,4,2,-,"90 Menahan St, Brooklyn, NY 11221",NAN,2021-10-19
+"$1,495,000",1,1,1,-,"109 W 26th St ROOM 8B, New York, NY 10001",NAN,2021-10-19
+"$955,000",3,3,-,-,"88-18 Rutledge Ave, Ridgewood, NY 11385",NAN,2021-10-19
+"$1,125,000",5,3,2,-,"732 Vincent Ave, Bronx, NY 10465",NAN,2021-10-19
+"$1,269,000",4,3,2,-,"123 Beach 62 St, Arverne, NY 11692",NAN,2021-10-19
+"$1,750,000",3,4,2,-,"167 Jefferson Ave, Brooklyn, NY 11216",NAN,2021-10-19
+"$149,900",1,1,7,-,"3400 Wayne Ave APT B42, Bronx, NY 10467",NAN,2021-10-19
+"$195,000",1,1,-,-,"87-19 204th St #A27, Hollis, NY 11423",NAN,2021-10-19
+"$999,999",3,2,2,-,"45 Pilling St, Brooklyn, NY 11207",NAN,2021-10-19
+"$1,875,000",2,3,1,-,"30 Little West St #7B, New York, NY 10280",NAN,2021-10-19
+"$379,000",1,1,7,-,"65-15 38th Ave APT 4P, Woodside, NY 11377",NAN,2021-10-19
+"$2,500,000",2,2,1,-,"53 Horatio St #2, New York, NY 10014",NAN,2021-10-19
+"$550,000",S,1,5,-,"230 E 52nd St #1A, New York, NY 10022",NAN,2021-10-19
+"$1,299,000",3,2,1,-,"67-125 Burns St, Forest Hills, NY 11375",NAN,2021-10-19
+"$4,000,000",6,4,3,-,"175 E 116th St APT 2, New York, NY 10029",NAN,2021-10-19
+"$1,598,000",4,4,4,-,"3 Carolina Rd, Flushing, NY 11362",NAN,2021-10-19
+"$525,000",2,1,-,-,"21-10 33rd Rd APT 8A, Astoria, NY 11106",NAN,2021-10-19
+"$595,000",2,1,1,-,"1825 Riverside Dr #3A, New York, NY 10034",NAN,2021-10-19
+"$1,875,000",2,2,1,-,"205 E 63rd St PENTHOUSE E, New York, NY 10065",NAN,2021-10-19
+"$949,999",4,2,1,-,"2336 Brigham St, Brooklyn, NY 11229",NAN,2021-10-19
+"$750,000",4,3,-,-,"219-14 113th Ave, Queens Village, NY 11429",NAN,2021-10-19
+"$719,000",3,3,-,-,"89-56 Vanderveer St, Queens Village, NY 11427",NAN,2021-10-19
+"$1,350,000",4,3,-,-,"21726 Corbett Rd, Flushing, NY 11361",NAN,2021-10-19
+"$725,000",S,1,5,-,"405 W 23rd St APT 12B, New York, NY 10011",NAN,2021-10-19
+"$749,000",4,2,-,-,"11009 172nd St, Jamaica, NY 11433",NAN,2021-10-19
+"$919,000",S,1,2,-,"451 Bolton Ave, Bronx, NY 10473",NAN,2021-10-19
+"$269,999",1,1,7,-,"8116 Langdale St #250B, New Hyde Park, NY 11040",NAN,2021-10-19
+"$200,000",3,1,1,-,"2922 Barnes Ave APT 6E, Bronx, NY 10467",NAN,2021-10-19
+"$329,999",1,1,8,-,"9059 56th Ave APT 9D, Elmhurst, NY 11373",NAN,2021-10-19
+"$1,699,000",7,6,3,-,"1756 Bergen St, Brooklyn, NY 11233",NAN,2021-10-19
+"$1,395,000",2,2,1,-,"333 W 84th St APT 3, New York, NY 10024",NAN,2021-10-19
+"$4,650,000",2,3,1,-,"151 E 58th St APT 35D, New York, NY 10022",NAN,2021-10-19
+"$1,995,000",2,2,1,-,"411 E 53rd St PENTHOUSE D, New York, NY 10022",NAN,2021-10-19
+"$424,000",2,1,9,-,"98-20 62nd Dr #14H, Rego Park, NY 11374",NAN,2021-10-19
+"$2,350,000",2,2,1,-,"120 Java St PENTHOUSE B, Brooklyn, NY 11222",NAN,2021-10-19
+"$725,000",4,2,2,-,"3936 Murdock Ave, Bronx, NY 10466",NAN,2021-10-19
+"$899,000",5,4,1,-,"1231 E 89th St, Brooklyn, NY 11236",NAN,2021-10-19
+"$220,000",2,1,7,-,"36 Convent Ave #18, New York, NY 10027",NAN,2021-10-19
+"$3,500,000",3,4,2,-,"290 W End Ave APT 16A, New York, NY 10023",NAN,2021-10-19
+"$750,000",1,1,-,-,"605 Park Ave APT 3G, New York, NY 10065",NAN,2021-10-19
+"$1,195,000",1,2,7,-,"200 E 69th St APT 5P, New York, NY 10021",NAN,2021-10-19
+"$215,000",1,1,-,-,"129 E 102nd St APT 4F, New York, NY 10029",NAN,2021-10-19
+"$639,000",2,2,-,-,"132-03 Sanford Ave #5, Flushing, NY 11355",NAN,2021-10-19
+"$415,000",3,2,9,-,"49 Bush Ave, Staten Island, NY 10303",NAN,2021-10-19
+"$3,450,000",3,3,-,-,"1165 Park Ave #3A, New York, NY 10128",NAN,2021-10-19
+"$570,000",1,1,-,-,"321 E 43rd St APT 814, New York, NY 10017",NAN,2021-10-19
+"$925,000",3,3,-,-,"251-49 57th Ave, Little Neck, NY 11362",NAN,2021-10-19
+"$570,000",1,1,-,-,"321 E 43rd St APT 814, New York, NY 10017",NAN,2021-10-19
+"$3,350,000",6,6,3,-,"821 Riverside Dr, New York, NY 10032",NAN,2021-10-19
+"$2,200,000",9,5,-,-,"5714 Xenia St, Flushing, NY 11368",NAN,2021-10-19
+"$599,000",3,3,-,-,"240-17 144th Ave, Rosedale, NY 11422",NAN,2021-10-19
+"$970,000",2,2,1,-,"1501 Voorhies Ave #27D, Brooklyn, NY 11235",NAN,2021-10-19
+"$525,000",S,1,-,-,"423 95th St #D3, Brooklyn, NY 11209",NAN,2021-10-19
+"$2,590,000",3,2,-,-,"22 Pierrepont St APT 3, Brooklyn, NY 11201",NAN,2021-10-19
+"$735,000",1,1,9,-,"405 W 57th St APT 3H, New York, NY 10019",NAN,2021-10-19
+"$1,495,000",2,2,1,-,"1623 3rd Ave APT 8H, New York, NY 10128",NAN,2021-10-19
+"$5,125,000",4,2,1,-,"116 Central Park S APT 11N, New York, NY 10019",NAN,2021-10-19
+"$735,000",S,1,5,-,"106 Central Park S APT 3G, New York, NY 10019",NAN,2021-10-19
+"$1,119,000",NAN,NAN,NAN,NAN,"1580 Dekalb Ave, Brooklyn, NY 11237",NAN,2021-10-19
+"$369,000",2,1,-,-,"83-11 139th St #6E, Jamaica, NY 11435",NAN,2021-10-19
+"$5,125,000",6,5,-,-,"152 Beard St #1, Brooklyn, NY 11231",NAN,2021-10-19
+"$425,000",S,1,-,-,"54 Orange St APT E, Brooklyn, NY 11201",NAN,2021-10-19
+"$849,000",3,3,2,-,"2274 E 29th St, Brooklyn, NY 11229",NAN,2021-10-19
+"$3,350,000",2,2,1,-,"3 E 77th St APT 9A, New York, NY 10075",NAN,2021-10-19
+"$395,000",2,1,1,-,"9850 67th Ave APT 6G, Rego Park, NY 11374",NAN,2021-10-19
+"$4,325,000",3,4,2,-,"24 Central Park S #11E, New York, NY 10019",NAN,2021-10-19
+"$2,949,888",6,4,4,-,"14-27 Astoria Blvd #MIX, Astoria, NY 11102",NAN,2021-10-19
+"$2,125,000",2,2,-,-,"201 W 70th St APT 30K, New York, NY 10023",NAN,2021-10-19
+"$1,495,000",1,1,6,-,"540 6th Ave #7B, New York, NY 10011",NAN,2021-10-19
+"$550,000",S,1,4,-,"210 E 47th St APT 8A, New York, NY 10017",NAN,2021-10-19
+"$1,575,000",2,2,1,-,"21-30 44th Dr #3C, Long Island City, NY 11101",NAN,2021-10-19
+"$1,199,000",6,5,-,-,"108 Schenck Ave, Brooklyn, NY 11207",NAN,2021-10-19
+"$599,000",3,2,2,-,"316 Elverton Ave, Staten Island, NY 10308",NAN,2021-10-19
+"$1,199,000",6,2,-,-,"70-39 64th Pl, Ridgewood, NY 11385",NAN,2021-10-19
+"$999,000",4,3,2,-,"5805 Waldron St, Flushing, NY 11368",NAN,2021-10-19
+"$1,249,284",3,5,2,-,"284 10th St, Staten Island, NY 10306",NAN,2021-10-19
+"$569,000",3,2,1,-,"27 Star Ct, Staten Island, NY 10312",NAN,2021-10-19
+"$489,000",2,2,6,-,"10427 38th Ave #4A, Corona, NY 11368",NAN,2021-10-19
+"$1,200,000",6,3,1,-,"82-66 89th St, Ridgewood, NY 11385",NAN,2021-10-19
+"$1,950,000",4,4,-,-,"554A Lexington Ave, Brooklyn, NY 11221",NAN,2021-10-19
+"$3,145,000",3,3,1,-,"11 Hoyt St #47H, Brooklyn, NY 11201",NAN,2021-10-19
+"$2,960,000",3,3,1,-,"11 Hoyt St APT 47A, Brooklyn, NY 11201",NAN,2021-10-19
+"$2,900,000",2,2,1,-,"420 W 25th St APT 9C, New York, NY 10001",NAN,2021-10-19
+"$1,875,000",2,2,-,-,"445 W 19th St PENTHOUSE F, New York, NY 10011",NAN,2021-10-19
+"$730,000",1,1,6,-,"352 W 117th St APT 2B, New York, NY 10026",NAN,2021-10-19
+"$2,150,000",2,2,9,-,"368 3rd Ave #16B, New York, NY 10016",NAN,2021-10-19
+"$2,995,000",4,4,2,-,"320 Riverside Dr #5GE, New York, NY 10025",NAN,2021-10-19
+"$789,000",2,2,1,-,"474 48th Ave APT 29B, Long Island City, NY 11109",NAN,2021-10-19
+"$375,000",2,1,1,-,"102-55 67th Dr, Forest Hills, NY 11375",NAN,2021-10-19
+"$2,900,000",2,2,1,-,"420 W 25th St APT 9C, New York, NY 10001",NAN,2021-10-19
+"$750,000",1,1,6,-,"1991 Broadway APT 4A, New York, NY 10023",NAN,2021-10-19
+"$1,350,000",2,6,1,-,"320 Riverside Dr APT 5C, New York, NY 10025",NAN,2021-10-19
+"$1,875,000",2,2,-,-,"445 W 19th St PENTHOUSE F, New York, NY 10011",NAN,2021-10-19
+"$899,000",1,1,-,-,"1 Sutton Pl #1, New York, NY 10022",NAN,2021-10-19
+"$730,000",1,1,6,-,"352 W 117th St APT 2B, New York, NY 10026",NAN,2021-10-19
+"$450,000",S,1,5,-,"345 E 52nd St APT 4B, New York, NY 10022",NAN,2021-10-19
+"$1,100,000",6,5,-,-,"12046 132nd St, Jamaica, NY 11420",NAN,2021-10-19
+"$1,149,000",-,5,-,-,"2744 E 64th St, Brooklyn, NY 11234",NAN,2021-10-19
+"$605,000",3,2,1,-,"3349 Mickle Ave, Bronx, NY 10469",NAN,2021-10-19
+"$1,180,000",8,4,-,-,"20658 45th Dr, Bayside, NY 11361",NAN,2021-10-19
+"$749,999",4,-,1,-,"1118 Ellsworth Ave, Bronx, NY 10465",NAN,2021-10-19
+"$499,900",2,2,1,-,"17 Vogel Loop, Staten Island, NY 10314",NAN,2021-10-19
+"$680,000",2,2,8,-,"65-38 Austin St #5K, Rego Park, NY 11374",NAN,2021-10-19
+"$848,000",3,3,2,-,"379 Mosley Ave, Staten Island, NY 10312",NAN,2021-10-19
+"$339,000",2,1,-,-,"71-05 252nd St #198A, Bellerose, NY 11426",NAN,2021-10-19
+"$1,650,000",8,4,2,-,"26-18 14th St, Astoria, NY 11102",NAN,2021-10-19
+"$1,399,000",-,-,4,-,"6901 Central Ave, Glendale, NY 11385",NAN,2021-10-19
+"$950,000",7,4,3,-,"179 Beach 118 St, Rockaway Park, NY 11694",NAN,2021-10-19
+"$1,359,000",5,3,4,-,"77-64 79th St, Ridgewood, NY 11385",NAN,2021-10-19
+"$745,000",S,1,7,-,"80 John St APT 6E, New York, NY 10038",NAN,2021-10-19
+"$1,250,000",3,2,-,-,"33-21 29th St, Astoria, NY 11106",NAN,2021-10-19
+"$1,625,000",1,2,8,-,"150 Columbus Ave APT 18E, New York, NY 10023",NAN,2021-10-19
+"$1,350,000",2,2,1,-,"189 Avenue C APT 9E, New York, NY 10009",NAN,2021-10-19
+"$1,995,000",3,3,1,-,"240 W 98th St APT 12G, New York, NY 10025",NAN,2021-10-19
+"$560,000",1,1,-,-,"2323 31st Ave APT 5D, Astoria, NY 11106",NAN,2021-10-19
+"$1,099,999",7,5,3,-,"117-06 204th St, Saint Albans, NY 11412",NAN,2021-10-19
+"$375,000",2,1,1,-,"102-55 67th Dr, Forest Hills, NY 11375",NAN,2021-10-19
+"$499,000",3,3,1,-,"43 Paris Ct, Staten Island, NY 10310",NAN,2021-10-19
+"$1,100,000",4,3,3,-,"119 Petrus Ave, Staten Island, NY 10312",NAN,2021-10-19
+"$1,199,000",3,5,1,-,"8810 24th Ave, Brooklyn, NY 11214",NAN,2021-10-19
+"$672,000",2,2,1,-,"2066 85th St #3B, Brooklyn, NY 11214",NAN,2021-10-19
+"$895,000",2,2,8,-,"1200 Decatur St #4B, Brooklyn, NY 11207",NAN,2021-10-19
+"$525,000",1,1,5,-,"1200 Decatur St #2A, Brooklyn, NY 11207",NAN,2021-10-19
+"$599,000",1,1,6,-,"1200 Decatur St #3B, Brooklyn, NY 11207",NAN,2021-10-19
+"$680,000",3,2,1,-,"2265 W 7th St APT 2A, Brooklyn, NY 11223",NAN,2021-10-19
+"$769,000",2,2,9,-,"1502 W 1st St, Brooklyn, NY 11204",NAN,2021-10-19
+"$2,695,000",4,3,2,-,"229 E 79th St #2AB, New York, NY 10075",NAN,2021-10-19
